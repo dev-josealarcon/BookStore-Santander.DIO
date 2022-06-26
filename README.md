@@ -2,7 +2,7 @@
 
 # Project Challenge - How to create an e-commerce front-end using Angular.
 
-<img src="/src/assets/imgages/screen.png" alt="Page desktop">
+<img src="src/assets/images/screen.png" alt="Page desktop">
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
